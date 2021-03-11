@@ -1,3 +1,8 @@
+Julio Mario Rodriguez | 202020236 | jm.rodriguezc1@uniandes.edu.co 
+
+Edison Julian Leon | 202021373 | e.leon@uniandes.edu.co
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
